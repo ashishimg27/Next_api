@@ -3,8 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 for check the demo 
-(https://next-api-oxmhb90zk-ashishimg27.vercel.app)
+(https://next-api-oxmhb90zk-ashishimg27.vercel.app/comments)
 
+  
 
 ## Getting Started
 
